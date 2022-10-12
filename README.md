@@ -9,11 +9,11 @@ You will submit through an electronic survey (URL to come) embedded within Camin
 # Download the .csv files
 [US Droughts by County](https://www.kaggle.com/datasets/us-drought-monitor/united-states-droughts-by-county)
 
-# Clone the repo
-```git clone <repo> ```
+# Clone the repo    
+```git clone https://github.com/jose-pagan/OMIS3000_Group_Project.git```
 
 # Change directory into repo
-```cd <repo_dir>```
+```cd OMIS3000_Group_Project```
 
 # Install the requirements
 ```pip install -r requirements.txt```
